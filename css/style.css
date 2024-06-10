@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+.dropdown-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.dropdown {
+    margin: 0 10px;
+}
